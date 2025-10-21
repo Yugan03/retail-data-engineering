@@ -5,7 +5,6 @@
 # Date: 2025-10-14
 # =================================================================
 
-# Testing the extract module
 import pandas as pd
 import os
 
