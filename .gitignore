@@ -31,8 +31,7 @@ data/raw/
 *.zip
 *.parquet
 
-# Power BI files
-*.pbix
+
 
 # Logs
 *.log 
